@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <jsp:include page="headInfo.jsp"/>
+    <jsp:include page="heaInfo.jsp"/>
     <jsp:include page="pageInfo.jsp"/>
     <jsp:include page="footInfo.jsp"/>
     <div id="d1" align="center">
